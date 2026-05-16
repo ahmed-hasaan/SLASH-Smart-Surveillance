@@ -74,27 +74,7 @@ Built as a Final Year Project and deployed on NVIDIA Jetson Orin Nano.
 - MongoDB (local)
 - Node-RED
 
-### Installation
 
-```bash
-# Clone the repo
-git clone https://github.com/YOUR_USERNAME/SLASH-Smart-Surveillance
-cd SLASH-Smart-Surveillance
-
-# Create virtual environment
-python3 -m venv surveillance_env
-source surveillance_env/bin/activate
-
-# Install dependencies
-pip install -r src/requirements.txt
-
-# Configure environment
-cp .env.example .env
-# Edit .env with your MongoDB Atlas URI
-
-# Run the system
-python3 src/slashf.py
-```
 
 ---
 
@@ -102,9 +82,6 @@ python3 src/slashf.py
 
 Due to file size, trained models are not included in this repo.
 
-Download from: [Google Drive Link](#) ← add your link here
-
-Place in: `models/best1.pt` and `models/best2.pt`
 
 ---
 
@@ -114,9 +91,9 @@ Built as Final Year Project at [Your University Name]
 
 | Name | Role |
 |------|------|
-| [Your Name] | Lead Developer |
-| [Name 1] | [Their Role] |
-| [Name 2] | [Their Role] |
+| Ahmed Hasaan | Partner |
+| Syed Mujtaba Ali Shah | Partner |
+| Muhammad Thamer | Partner |
 
 ---
 
